@@ -1,6 +1,7 @@
-# Chatroom
+# Larping Chatroom
 
 A real-time chatroom that runs entirely on **GitHub Pages** — no server, no API keys.
+<img width="480" height="480" alt="giphy" src="https://github.com/user-attachments/assets/ba266d4d-5f7d-435d-bc1e-46953761c459" />
 
 Messages sync across browsers using [Gun.js](https://gun.eco/) peer relays. Pick a display name, join a room, and chat.
 
@@ -45,6 +46,7 @@ Serve the folder with any static server, for example:
 ```bash
 npx serve .
 ```
+<img width="356" height="200" alt="200" src="https://github.com/user-attachments/assets/9ca1a1b3-f02e-413c-acff-f0b03346f0aa" />
 
 Then open `http://localhost:3000` in two browser tabs to test messaging.
 
